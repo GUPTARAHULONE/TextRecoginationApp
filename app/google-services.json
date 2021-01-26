@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451400615333",
+    "project_id": "textrecoginition-fd23e",
+    "storage_bucket": "textrecoginition-fd23e.appspot.com"
+  },
+  "client":[
+  {
+    "client_info": {
+      "mobilesdk_app_id": "1:451400615333:android:71a60ea31d6a37a3d8d44c",
+      "android_client_info": {
+        "package_name": "com.example.textrecoginition"
+      }
+    },
+    "oauth_client": [
+      {
+        "client_id": "451400615333-qd48mjt6aq00bj83e3rt0e2hkb539nta.apps.googleusercontent.com",
+        "client_type": 3
+      }
+    ],
+    "api_key": [
+      {
+        "current_key": "AIzaSyAM813zIf7AKtA38WQNYp-rleI-Tc414cs"
+      }
+    ],
+    "services": {
+      "appinvite_service": {
+        "other_platform_oauth_client": [
+          {
+            "client_id": "451400615333-qd48mjt6aq00bj83e3rt0e2hkb539nta.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ]
+      }
+    }
+  }
+  ],
+  "configuration_version": "1"
+}
